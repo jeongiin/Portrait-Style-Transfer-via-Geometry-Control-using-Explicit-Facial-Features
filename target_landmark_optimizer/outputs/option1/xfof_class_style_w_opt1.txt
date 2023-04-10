@@ -1,0 +1,13 @@
+face_shape : 1
+eye_pos : 1
+eye_len : 1
+eye_shape : 1
+eyebrow_pos : 1
+eyebrow_len : 1
+eyebrow_shape : 1
+lip_pos : 1
+lip_len : 1
+lip_shape : 1
+nose_pos : 1
+nose_len : 1
+nose_shape : 1
