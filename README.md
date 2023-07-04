@@ -1,4 +1,4 @@
-# A Hybrid Character Generation via Shape Control using Explicit Facial Features
+# [A Hybrid Character Generation via Shape Control using Explicit Facial Features](https://www.mdpi.com/2227-7390/11/11/2463)
 
 - 카툰 예제를 기반으로 얼굴 형태를 제어 가능할 수 있는 스타일 변환 모델
 - Jeongin Lee,Jihyeon Yeom, Heekyung Yang,* and Kyungha Min,*
